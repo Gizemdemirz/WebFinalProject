@@ -1,5 +1,4 @@
 <h2> E-Ticaret Sitesi <h2>
-
 <h2>Anasayfa<h2>
 
 ![image](https://user-images.githubusercontent.com/62529090/122679637-56000780-d1f4-11eb-87b3-246521e785d7.png)
